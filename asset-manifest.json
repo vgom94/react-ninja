@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-ninja/static/css/main.bdbd0b99.css",
+    "main.js": "/react-ninja/static/js/main.b73fd318.js",
+    "index.html": "/react-ninja/index.html",
+    "main.bdbd0b99.css.map": "/react-ninja/static/css/main.bdbd0b99.css.map",
+    "main.b73fd318.js.map": "/react-ninja/static/js/main.b73fd318.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdbd0b99.css",
+    "static/js/main.b73fd318.js"
+  ]
+}
